@@ -149,8 +149,7 @@ color: #8F95A5;
 
 .get-started p a {
     position: absolute;
-    width: 203px;
-    height: 54px;
+    padding: 15px;
     left: 247px;
     top: 707px;
 
@@ -163,7 +162,7 @@ color: #8F95A5;
     color: white;
 
     width: 438px;
-    height: 118px;
+    height: 60px;
     left: 129px;
     top: 675px;
 
